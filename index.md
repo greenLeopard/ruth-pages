@@ -1,6 +1,4 @@
----
-title: Ask the universe about Operations Research
----
+# Ask the universe about Operations Research
 
 I'm working on an operations research model and sometimes I just need a place to record my ideas.
 
