@@ -1,7 +1,14 @@
 ---
-title: "CONSTRAINT-BUILDER"
-date: 2025-09-16
+title: Constraint builder
+description: Logic for constructing all the constraints
+tags:
+- Pandas
+- Pydantic
+- OR-tools
+- date: 2025-09-16
 ---
+
+# General modeling of the knapsack
 
 I have this big data model called `Constraint`
 
