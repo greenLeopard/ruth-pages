@@ -1,33 +1,13 @@
-# About Operations Research
+# O.R. what?
 
-I'm working on an operations research model and sometimes I just need a place to record my ideas.
-
-
------
-
-
-But let's start with Prospero, from The Tempest, by Shakespeare:
-
-> Our revels now are ended. These our actors,
->
-> As I foretold you, were all spirits and
->
-> Are melted into air, into thin air:
->
-> And, like the baseless fabric of this vision,
->
-> The cloud-capp'd towers, the gorgeous palaces,
-> 
-> The solemn temples, the great globe itself,
-> 
-> Yea, all which it inherit, shall dissolve
->
-> And, like this insubstantial pageant faded,
-> 
-> Leave not a rack behind. We are such stuff
-> 
-> As dreams are made on, and our little life
-> 
-> Is rounded with a sleep.
+Where do you even start.
 
 -----
+
+## Trying to link to posts 
+
+* [Post 3: AI Prompts](./_posts/2029-09-23-ai-prompts.md)
+* [Post 2: Tricky Constraint](./_posts/2025-09-17-tricky-constraints.md)
+* [Post 1: Constraint Builder](./_posts/2025-09-16-constraint-builder.md)
+
+
